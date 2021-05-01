@@ -1,6 +1,6 @@
 [![Game Glide's stats](https://github-readme-stats.vercel.app/api?username=YT-GameWorks&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">Hi, My name is Game Glide </div>
+<div align="center"><h1>Hi, My name is Game Glide</h1></div>
 <br />
 <p>I am a Game developer, java developer and a full stack web developer! Oh and also Youtuber :) <br/>
 I use the following languages to write code:
