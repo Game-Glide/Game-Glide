@@ -5,7 +5,7 @@
   
 [![Game Glide's stats](https://github-readme-stats.vercel.app/api?username=YT-GameWorks&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Game Glide's github activity graph](https://activity-graph.herokuapp.com/graph?username=YT-GameWorks&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Game Glide's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YT-GameWorks&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <p>I am a Game developer, java developer and a full stack web developer! Oh and also Youtuber :) <br/>
