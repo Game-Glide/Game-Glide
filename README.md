@@ -3,16 +3,16 @@
 
 <div align="center">
   
-[![Game Glide's stats](https://github-readme-stats.vercel.app/api?username=YT-GameWorks&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Game Glide's stats](https://github-readme-stats.vercel.app/api?username=Game-Glide&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YT-GameWorks&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Game-Glide&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <p>I am a Game developer, java developer and a full stack web developer! Oh and also Youtuber :) <br/>
 I use the following languages to write code:
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YT-GameWorks&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Game-Glide&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🔌 Fun fact: I didn't have the patience to put logos in the below section :)
 
