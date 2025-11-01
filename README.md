@@ -7,7 +7,7 @@ Wanna know more about me? Too bad, take a look at these cool thingamajigs first 
 <br />
 <div align="center">  
   
-| [![Game Glide's stats](https://github-readme-stats.vercel.app/api?username=Game-Glide&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Game-Glide&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Game Glide's stats](https://github-readme-stats.vercel.app/api?username=Game-Glide&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Game-Glide&show_icons=true&theme=onedark&hide=css)](https://github.com/anuraghazra/github-readme-stats) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </div>
